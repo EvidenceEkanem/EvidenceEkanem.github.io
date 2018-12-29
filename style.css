@@ -1,0 +1,36 @@
+
+
+.loginSection{
+    height: 650px;
+}
+.divLogin{
+    width: 350px;
+    height: 500px;
+   
+}
+.topLogin{
+    width: 350px;
+    height: 55px;
+    background-color: #314d68;
+}
+.divContainer{
+    width: 350px;
+    height: 440px;
+    padding: 4% 20px;
+}
+.btn{
+    width: 100% !important;
+}
+.forgotText{
+    text-align: right;
+}
+
+.inputEmail:focus{
+    outline: none;
+}
+.cardSection{
+    height: 500px;
+    margin-top: 60px;
+    /* display: inline-block; */
+    /* width: 40%; */
+}
